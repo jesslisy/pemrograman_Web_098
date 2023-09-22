@@ -1,0 +1,2 @@
+hello Dunia
+Saya sedang belajar menggunakan Git
